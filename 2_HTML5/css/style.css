@@ -1,0 +1,42 @@
+em{
+    font-weight: 900;
+    color: pink; 
+}   
+h1{
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 20px;
+   left: 200px;
+   z-index: 3;
+   font-size: 20pt;color: purple;		 }
+h2       { font-family: tahoma, helvetica, sans-serif; 
+       position: absolute;
+        top: 60px;
+        left: 150px;
+        z-index: 3;
+        font-size: 20pt;color: blue;		 }				 
+p{ font-size: 12pt;
+   font-family: arial, sans-serif; 
+}
+.background_image   
+    { position: absolute;
+        top: 0px;
+        left: 0px;
+        z-index: 1; }
+ .foreground_image   { position: absolute;
+        top: 25px;
+        left: 100px;
+        z-index: 2; }
+.text1    { position: absolute;
+        top: 120px;
+        left: 150px;
+        z-index: 3;
+        font-size: 20pt;
+        font-family: tahoma, geneva, sans-serif; } 
+.text2    { position: absolute;
+        top: 150px;
+        left: 150px;
+        z-index: 3;
+        font-size: 40pt;
+        font-family: tahoma, geneva, sans-serif;
+        color: red; } 				 
